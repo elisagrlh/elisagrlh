@@ -5,7 +5,7 @@ My name is Elisa and I am an Web and Extended Reality software Engineer !
 - 💻 I did a Zevent Monitoring project [here](https://monitzevent.fly.dev/)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisagrlh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub stats](https://github-readme-stats-<elisagrlh>.vercel.app/api?username=elisagrlh&show_icons=true&count_private=true)
+  [![GitHub stats](https://github-readme-stats-elisagrlh.vercel.app/api?username=elisagrlh&show_icons=true&count_private=true)
 
 
 
