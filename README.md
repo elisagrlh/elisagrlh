@@ -4,7 +4,7 @@ My name is Elisa and I am an Web and Extended Reality software Engineer !
 - 🌱 I’m currently learning Blender on [Nimea](https://github.com/elisagrlh/Nimea) project !
 - 👯 I’m looking to collaborate on 3D
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisagrlh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
