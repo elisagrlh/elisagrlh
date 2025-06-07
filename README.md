@@ -2,7 +2,7 @@
 My name is Elisa and I am an Web and Extended Reality software Engineer !
 - 🔭 I’m currently working on Metaleak website, a showcase website for a video game association.
 - 🌱 I’m currently learning Blender on [Nimea](https://github.com/elisagrlh/Nimea) project !
-- 👯 I’m looking to collaborate on 3D
+- 💻 I did a Zevent Monitoring project [here](https://monitzevent.fly.dev/)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisagrlh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
