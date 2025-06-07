@@ -1,6 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+My name is Elisa and I am an Web and Extended Reality software Engineer !
+- 🔭 I’m currently working on [Metaleak](https://github.com/elisagrlh/MetaleakWebsite) website, a showcase website for a video game association.
+- 🌱 I’m currently learning Blender !
 - 👯 I’m looking to collaborate on ...
 
 <!--
