@@ -4,7 +4,7 @@ My name is Elisa and I am an Web and Extended Reality software Engineer !
 - 🌱 I’m currently learning Blender on [Nimea](https://github.com/elisagrlh/Nimea) project !
 - 💻 I did a Zevent Monitoring project [here](https://monitzevent.fly.dev/)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisagrlh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisagrlh&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=elisagrlh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
