@@ -6,7 +6,6 @@ My name is Elisa and I am an Web and Extended Reality software Engineer !
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisagrlh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  
   [![GitHub Streak](https://streak-stats.demolab.com/?user=elisagrlh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
   
